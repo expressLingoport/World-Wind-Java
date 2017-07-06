@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Lingoport.WorldWindJava</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.lingoport.globalyzer.client.ui.plugin.scanExecutorBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.lingoport.globalyzer.client.ui.plugin.scanExecutorNature</nature>
+	</natures>
+</projectDescription>
